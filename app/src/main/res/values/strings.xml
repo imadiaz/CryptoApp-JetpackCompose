@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CryptoApp</string>
+
+
+    <string name="clear_filter">Clear filters</string>
+    <string name="available_currencies">Available currencies</string>
+    <string name="prices">Prices</string>
+</resources>
